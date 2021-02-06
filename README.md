@@ -51,6 +51,6 @@ Following Python packages should be installed:
 ---------------------------------------
 Jiecong Lin
 
-jieconlin3-c@my.cityu.edu.hk
+ew314ew@stu.xjtu.edu.cn
 
-January 27 2018
+Biomedical Informatics & Genomics Center, School of Life Science and Technology, Xi'an Jiaotong University
